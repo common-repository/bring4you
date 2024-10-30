@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bring4you\n"
+"POT-Creation-Date: 2020-07-14 14:33+0200\n"
+"PO-Revision-Date: 2020-07-14 14:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: Bring4You\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-KeywordsList: _e;gettext;gettext_noop;__;_x;_n_noop;_n;esc_attr__;"
+"esc_attr_e;esc_html__;esc_html_e;esc_attr_x;esc_html_x\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/partials/bring4you-admin-display.php:17
+msgid "Module d'envoi de Bring4You"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:20
+msgid "Ceci est notre nouveau module !"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:21
+msgid "Vous pouvez le configurer en suivant le formulaire de configuration"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:25
+msgid "Ce module va booster vos ventes !"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:30
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:32
+msgid "Vous pouvez récupérer la documentation pour configurer ce module :"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:34
+msgid "Anglais"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:35
+msgid "Français"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:44
+msgid "Paramètres"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:49
+msgid "Mode Production"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:53
+msgid "Oui"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:55
+msgid "Non"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:60
+msgid "Utiliser en production"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:66
+msgid "Adresse d’enlèvement"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:69
+msgid "Paris"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:72
+msgid "Entrez l’adresse de votre entrepôt ou magasin"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:77
+msgid "Texte de l'estimation"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:80
+msgid "Prix de transport"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:82
+msgid "Ce texte apparaît dans le résultat de l'estimation"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:87
+msgid "Aide"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:90
+msgid "Ceci est une aide configurable"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:92
+msgid "Ce texte apparaît quand vous survolez l'icone ?"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:97
+msgid "Votre commission sur le transport (%)"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:100
+msgid "Souhaitez-vous prendre une commission sur la livraison ?"
+msgstr ""
+
+#: admin/partials/bring4you-admin-display.php:108
+msgid "Sauvegarder"
+msgstr ""
+
+#: bring4you.php:78
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#~ msgid "Bring4You shipping module"
+#~ msgstr "Bring4You module d'expédition"
+
+#~ msgid "Save"
+#~ msgstr "Save"

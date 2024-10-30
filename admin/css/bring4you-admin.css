@@ -1,0 +1,131 @@
+/wp/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+.panel {
+    background: white;
+    width: 90%;
+    padding: 15px;
+}
+
+.help-block {
+    color: #959595;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.control-label {
+    font-weight: bold;
+    width: 20%;
+    float: left;
+}
+
+.btn-b4y {
+    background: white;
+    border-radius: 0px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.b4y-editzone {
+    width: 80%;
+    float: left;
+}
+
+.b4y_select_address_selected_on {
+  background:#58c5586b;
+}
+
+.b4y-modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.4);
+}
+
+.b4y-modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  max-width: 800px;
+}
+
+.b4y-close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.b4y-close:hover,
+.b4y-close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.b4y_sent_it.button {
+  color: white;
+  background: #114166;
+  border-color: #114166;
+  padding: 10px 30px 10px 30px;
+}
+
+.b4y_sent_it_now.button  {
+  color: white;
+  background: #114166;
+  border-color: #114166;
+  padding: 10px 30px 10px 30px;
+}
+
+.b4y-car {
+    width: 25px;
+    vertical-align: sub;
+}
+
+#b4y_description{
+  margin-top: 10px;
+  margin-bottom: 5px;
+  height: 150px;
+  width: 100%;  
+}
+
+#b4y_to_adresse, #b4y_select_address_select, #b4y_to_phone, #b4y_to_name,
+#b4y_from_adresse, #b4y_select_from_address_select, #b4y_from_phone, #b4y_from_name {
+  width: 100% !important;  
+  max-width: 100% !important;  
+  margin-bottom:5px;
+}
+
+#validate_to {
+	background:#E7A03C !important;
+	color: #fff !important;
+	border: #fff !important;
+}
+
+#validate_from.valid {
+	background:#00ff00 !important;
+	color: #000 !important;
+	border: #000 !important;
+}
+#validate_to.valid {
+	background:#00ff00 !important;
+	color: #000 !important;
+	border: #000 !important;
+}
+
+.important-hightlight {
+	background : #e7a03cc4;
+	padding: 5px;
+}
